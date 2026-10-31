@@ -1,1 +1,0 @@
-__d(function(t,e,i,s,l,r,a){l.exports={grammar:{title:"",tileSub:"",intro:[],listTitle:"",listNote:"",rulesTitle:"",done:["","",""],items:[],frames:[]},alphabet:{intro:"",letters:[],combos:[]},spelling:{rules:{},items:[]},variants:{title:"",sub:"",intro:"",places:[],entries:[]},cando:[],places:[]}},1357,[]);
