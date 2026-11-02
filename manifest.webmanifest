@@ -4,18 +4,30 @@
  "start_url": "/",
  "scope": "/",
  "display": "standalone",
- "background_color": "#A8E6C4",
+ "background_color": "#0D474A",
  "theme_color": "#2C5282",
  "icons": [
   {
    "src": "/icon-192.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
    "src": "/icon-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
   }
- ]
+ ],
+ "id": "/",
+ "description": "Learn Serbian, Croatian, Bosnian, Montenegrin and more, a few minutes a day.",
+ "lang": "en-GB",
+ "orientation": "portrait"
 }
